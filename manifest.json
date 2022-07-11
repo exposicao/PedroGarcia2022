@@ -1,8 +1,7 @@
 {
- "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "name": "Exposição Expressão - Pedro Garcia",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
  "icons": [
   {
    "sizes": "512x512",
@@ -40,5 +39,6 @@
    "src": "misc/icon16.png"
   }
  ],
- "start_url": "index.htm?installed=true"
+ "start_url": "index.htm?installed=true",
+ "background_color": "#FFFFFF"
 }
